@@ -10,7 +10,7 @@ How to Use
 
 
 # Demo:
-You can view the live demo of my simple music subcription webpage using only Flex and its properties [https://sivabala-manikandan.github.io/Music-subcription/]
+You can view the live demo of my simple music subcription webpage using only Flex and its properties [https://sivabalamanikandan-c.github.io/Music-subcription/]
 
 # Features:
 Simple and clean design
